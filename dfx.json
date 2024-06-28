@@ -1,7 +1,7 @@
 {
   "canisters": {
-    "Day2_backend": {
-      "main": "src/Day2_backend/main.mo",
+    "Day3_backend": {
+      "main": "src/Day3_backend/main.mo",
       "type": "motoko"
     }
   },
